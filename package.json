@@ -1,13 +1,13 @@
 {
-    "name": "Mutzxd99/Baileys",
+    "name": "Mutzxd99/Bails",
     "version": "2.1.7",
     "description": "WhatsApp Modified By Mut7xd",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/Mutzxd99/Baileys",
+    "homepage": "https://github.com/Mutzxd99/Bails",
     "repository": {
-        "url": "https://github.com/Mutzxd99/Baileys"
+        "url": "https://github.com/Mutzxd99/Bails"
     },
     "license": "MIT",
     "author": "Dr909-Mut7xd",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://Mutzxd99/Baileys/issues"
+      "url": "https://Mutzxd99/Bails/issues"
     }
 }
